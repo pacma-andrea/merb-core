@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
