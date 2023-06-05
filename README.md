@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add bgr hyperparameter (#9139)
