@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
