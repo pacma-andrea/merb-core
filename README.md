@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add OBB benchmarks to CI (#7777)
