@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Add visuals in guides/distance-calculation.md (#7876)
