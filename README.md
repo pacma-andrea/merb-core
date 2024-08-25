@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
