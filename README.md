@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Update Docs Home and Neural Magic pages (#7243)
